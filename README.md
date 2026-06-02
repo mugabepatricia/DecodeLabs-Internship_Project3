@@ -27,8 +27,6 @@ KPI Section
 * Average Order Value
 * Cancellation Rate
 
-⸻
-
 Visualizations
 
 1. Revenue Trend Over Time
